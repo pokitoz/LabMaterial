@@ -2,6 +2,13 @@
 
 List of all the parts useful for a lab
 
+## Connectivity
+
+- TPLink WIFI router
+- Amarisoft (LTE connectivity)
+- LabSat (GNSS repeater)
+- GNSS Repeater
+
 ## Power Consumption Study
 
 - DollaTek FNB38
