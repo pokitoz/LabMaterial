@@ -59,3 +59,8 @@ List of all the parts useful for a lab
 - Thermo Cables
 - Breadboard with breadboard wires
 - Heat shrink solder
+
+
+## Chip
+
+- https://www.bekencorp.com/en/goods/detail/cid/39.html
