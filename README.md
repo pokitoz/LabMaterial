@@ -33,9 +33,13 @@ List of all the parts useful for a lab
 - Prusa
 - Creality
 
+# CNC
+
+- Two Trees https://twotrees3d.com/ ttc-450
+
 ## Power Supply
 
-- Korad (prefer a fan less.. avoid noise)
+- Korad (prefer a fan less.. avoid noise) with Serial to use [python-script](https://github.com/starforgelabs/py-korad-serial)
 
 ## Soldering
 
